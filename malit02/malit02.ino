@@ -9,7 +9,7 @@ const char* ssid = "***************";
 const char* password = "********";
 
 // --------------Configuração de relógio online -------------------
-const char* ntpServer1 = "c.st1.nto.br"; //Endereço 1
+const char* ntpServer1 = "c.st1.ntp.br"; //Endereço 1
 const char* ntpServer2 = "pool.ntp.org";//Endereço 1
 const long gmtOffset_sec = 0; 
 const int daylightOffset_sec = -3600*3;
